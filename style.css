@@ -1,0 +1,19 @@
+a:link{
+  color: #0eb2db
+  border:2px solid
+}
+a:visited{
+  color: #0004f1
+}
+a:hover{
+  color: #ff0000
+}
+a.current{
+  color:#6e6e6e
+}
+a:active{
+  color: #8200fc
+}
+li{
+  margin-bottom: 30px
+}
